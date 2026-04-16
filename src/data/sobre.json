@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "title": "Sobre Nós",
+    "description": "Conheça o TESTEDOS100DIAS"
+  },
+  "hero": {
+    "title": "Sobre Nós",
+    "subtitle": "Fundado em julho de 2007, o Teste dos 100 Dias é pioneiro na avaliação de veículos na internet. Estamos comprometidos em fornecer informações precisas e detalhadas para o consumidor brasileiro."
+  },
+  "content": "O Teste dos 100 Dias é um projeto que visa trazer transparência e qualidade nas avaliações de veículos. Acreditamos que informações precisas podem fazer a diferença na hora da escolha do consumidor.",
+  "mission": "Nossa missão é oferecer avaliações imparciais e detalhadas, ajudando o consumidor a tomar decisões conscientes.",
+  "image": "/images/sobre.jpg",
+  "stats": [
+    {
+      "value": "500+",
+      "label": "Artigos"
+    },
+    {
+      "value": "100k+",
+      "label": "Leitores"
+    },
+    {
+      "value": "5",
+      "label": "Redatores"
+    }
+  ],
+  "team": []
+}

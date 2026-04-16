@@ -1,0 +1,53 @@
+{
+  "name": "TESTEDOS100DIAS",
+  "slug": "testedos100dias.com.br",
+  "description": "O Teste dos 100 dias é uma avaliação de longa duração que estreou com pioneirismo na internet em julho de 2007. Nesse período, já realizamos avaliações com modelos diferentes de carros e motocicletas que foram submetidos a testes rigorosos na pista, medições de consumo e avaliações de inúmeros jornalistas e colaboradores da Motorpress Brasil Editora. Participe com seus comentários, críticas e sugestões e nos ajude a fazer um teste sempre mais perto do que busca o consumidor. Equipes revista Carro e Motociclismo.",
+  "url": "https://testedos100dias.com.br",
+  "niche": "Automotivo",
+  "keywords": "O Teste dos 100 dias e uma avaliacao de longa duracao que",
+  "email": "contato@testedos100dias.com.br",
+  "palette": "gold",
+  "colors": {
+    "primary": "#ca8a04",
+    "accent": "#92400e",
+    "dark": "#451a03"
+  },
+  "headerContrast": "light",
+  "font": "montserrat",
+  "fontFamily": "'Montserrat', sans-serif",
+  "fontUrl": "https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800&display=swap",
+  "components": {
+    "header": "Header-C",
+    "hero": "Hero-C",
+    "features": "Features-C",
+    "about": "About-A",
+    "posts": "Posts-J",
+    "footer": "Footer-H",
+    "sobre": "Sobre-A",
+    "contato": "Contato-C"
+  },
+  "menu": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Blog",
+      "href": "/blog"
+    },
+    {
+      "label": "Sobre",
+      "href": "/sobre"
+    },
+    {
+      "label": "Contato",
+      "href": "/contato"
+    }
+  ],
+  "social": {
+    "instagram": "",
+    "facebook": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

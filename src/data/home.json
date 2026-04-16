@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "title": "TESTEDOS100DIAS — Descubra o Teste dos 100 Dias",
+    "description": "Avaliações detalhadas de carros e motos para o consumidor exigente."
+  },
+  "hero": {
+    "title": "Descubra o Teste dos 100 Dias",
+    "subtitle": "Avaliações detalhadas de carros e motos para o consumidor exigente.",
+    "btnText": "Saiba Mais",
+    "bgImage": "/images/hero.jpg",
+    "btnLink": "/blog"
+  },
+  "features": {
+    "title": "Nossas Avaliações",
+    "items": [
+      {
+        "icon": "🛣️",
+        "title": "Testes Rigorosos",
+        "desc": "Submetemos veículos a avaliações rigorosas na pista para garantir resultados precisos."
+      },
+      {
+        "icon": "💡",
+        "title": "Medições de Consumo",
+        "desc": "Realizamos medições de consumo detalhadas para ajudar na sua decisão de compra."
+      },
+      {
+        "icon": "📰",
+        "title": "Avaliações Confiáveis",
+        "desc": "Nossos testes são realizados por jornalistas e colaboradores da Motorpress Brasil Editora."
+      },
+      {
+        "icon": "🤝",
+        "title": "Colaboração da Comunidade",
+        "desc": "Participe com seus comentários, críticas e sugestões para aprimorar nossas avaliações."
+      }
+    ]
+  },
+  "about": {
+    "title": "Sobre o Teste dos 100 Dias",
+    "desc": "Fundado em julho de 2007, o Teste dos 100 Dias é pioneiro na avaliação de veículos na internet. Estamos comprometidos em fornecer informações precisas e detalhadas para o consumidor brasileiro.",
+    "stats": [
+      {
+        "value": "16+",
+        "label": "Anos de Experiência"
+      },
+      {
+        "value": "200+",
+        "label": "Modelos Avaliados"
+      },
+      {
+        "value": "1000+",
+        "label": "Testes Realizados"
+      }
+    ],
+    "image": "/images/about.jpg",
+    "btnText": "Saiba Mais",
+    "btnLink": "/sobre"
+  },
+  "posts": {
+    "title": "Últimos Artigos",
+    "limit": 3,
+    "btnText": "Ver Blog",
+    "btnLink": "/blog"
+  }
+}
